@@ -1,0 +1,398 @@
+,Project
+0,OpenCog
+1,AForge.NET
+2,OpenCV
+3,Data Mining
+4,R programming language
+5,TREX
+6,ROS
+7,Webots
+8,YARP
+9,CMU Sphinx
+10,Emacspeak
+11,ESpeak
+12,Festival Speech Synthesis System
+13,Modular Audio Recognition Framework
+14,NonVisual Desktop Access
+15,Text2Speech
+16,Dasher
+17,Gnopernicus
+18,Virtual Magnifying Glass
+19,FreeCAD
+20,LibreCAD
+21,Fritzing
+22,KiCad
+23,Blender
+24,FlightGear
+25,SimPy
+26,ClamAV
+27,ClamWin
+28,Gateway Anti-Virus
+29,Lynis
+30,MyDLP
+31,dvdisaster
+32,Foremost
+33,PhotoRec
+34,TestDisk
+35,The Coroner's Toolkit
+36,The Sleuth Kit
+37,USBKill
+38,DBAN
+39,srm
+40,AES
+41,Bouncy Castle
+42,GnuPG
+43,GnuTLS
+44,KGPG
+45,NaCl
+46,OpenSSL
+47,Seahorse
+48,Signal
+49,stunnel
+50,TextSecure
+51,Themis
+52,wolfCrypt
+53,CrossCrypt
+54,FreeOTFE
+55,eCryptfs
+56,Firestarter
+57,IPFilter
+58,ipfw
+59,iptables
+60,M0n0wall
+61,PeerGuardian
+62,PF
+63,pfSense
+64,Rope
+65,Shorewall
+66,SmoothWall
+67,Vyatta
+68,Snort
+69,OpenVAS
+70,Cyberduck
+71,Lsh
+72,OpenSSH
+73,PuTTY
+74,Bitwarden
+75,KeePass
+76,Password Safe
+77,Mitro
+78,Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI)
+79,FrontlineSMS
+80,Konstanz Information Miner (KNIME)
+81,OpenNN
+82,Orange (software)
+83,RapidMiner
+84,Scriptella ETL
+85,Weka
+86,JasperSoft
+87,ParaView
+88,VTK
+89,ApexKB
+90,Lucene
+91,Nutch
+92,Solr
+93,Xapian
+94,Elasticsearch
+96,Pentaho
+97,OpenAFS
+98,Tahoe-LAFS
+99,CephFS
+100,Scribus
+101,Calibre
+102,Sigil
+103,ATutor
+104,Chamilo
+105,Claroline
+106,DoceboLMS
+107,eFront
+108,FlightPath
+109,GCompris
+110,Gnaural
+111,H5P
+112,IUP Portfolio
+113,ILIAS
+114,Moodle
+115,OLAT
+116,Omeka
+117,openSIS
+118,Sakai Project
+119,SWAD
+120,Tux Paint
+121,UberStudent
+122,KGeography
+123,Kiten
+124,KTouch
+125,Tux Typing
+126,GnuCash
+127,HomeBank
+128,KMyMoney
+129,LedgerSMB
+130,RCA open-source application
+131,SQL Ledger
+132,TurboCASH
+133,Wave Accounting
+134,EOS.IO
+135,CiviCRM
+136,iDempiere
+137,SugarCRM
+138,Adempiere
+139,Compiere
+140,Dolibarr
+141,ERPNext
+142,Ino erp
+143,JFire
+144,metasfresh
+145,Odoo
+146,Openbravo
+147,Tryton
+148,OrangeHRM
+149,Cyclos
+150,Mifos
+151,Bonita Open Solution
+152,jFin
+153,QuickFIX
+154,QuickFIX/J
+155,Xonotic
+156,Warsow
+157,WINE
+158,MAME
+159,RetroArch
+160,Pingus
+161,OpenTTD
+162,SuperTuxKart
+163,0 A.D.
+164,Freeciv
+165,The Battle for Wesnoth
+166,Gramps
+167,QGIS
+168,CyberBrau
+169,Evergreen
+170,Koha
+171,NewGenLib
+172,OpenBiblio
+173,PMB
+174,refbase
+175,Darktable
+176,digiKam
+177,GIMP
+178,Inkscape
+179,Karbon
+180,Krita
+181,LazPaint
+182,LightZone
+183,RawTherapee
+184,Pencil2D
+185,Pivot Animator
+186,Synfig
+187,TupiTube
+188,OpenToonz
+192,OpenFX
+193,Seamless3d
+195,SWFTools
+196,Godot
+197,Stockfish
+198,Eye of GNOME
+199,F-spot
+200,feh
+201,Geeqie
+202,Gthumb
+203,Gwenview
+204,Kphotoalbum
+205,Opticks
+206,Dr. DivX
+207,FFmpeg
+208,MEncoder
+209,OggConvert
+210,Avidemux
+211,AviSynth
+213,Cinelerra
+214,DScaler
+215,DVD Flick
+216,Flowblade
+217,Kaltura
+218,Kdenlive
+219,Kino
+220,LiVES
+221,Natron
+222,Olive
+223,OpenShot
+224,Pitivi
+225,Shotcut
+226,VirtualDub
+227,VirtualDubMod
+228,VideoLAN Movie Creator
+230,HandBrake
+232,Media Player Classic
+233,VLC media player
+234,Celtx
+235,Open Broadcaster Software
+236,Revive Adserver
+237,Asterisk
+238,Ekiga
+239,ConferenceXP
+240,FreePBX
+241,FreeSWITCH
+242,Jitsi
+243,QuteCom
+244,Enterprise Communications System sipXecs
+245,Slrn
+246,Twinkle
+247,Ring
+248,Tox
+249,Geary (software)
+250,Mozilla Thunderbird
+251,GNU Queue
+252,HTCondor
+253,OpenLava
+254,pexec
+255,Apache Axis2
+256,Apache Geronimo
+258,GlassFish
+259,Jakarta Tomcat
+260,JBoss Application Server
+261,ObjectWeb JOnAS
+262,OpenRemote
+263,TAO (software)
+264,Enduro/X
+265,Akregator
+266,Liferea
+267,NetNewsWire
+268,RSS Bandit
+269,RSSOwl
+270,Sage (Mozilla Firefox extension)
+271,Popcorn Time
+272,qBittorrent
+273,Transmission
+274,Drupal
+275,Liferay
+276,Sun Java System Portal Server
+277,uPortal
+278,FreeNX
+279,OpenVPN
+280,rdesktop
+281,Synergy
+282,VNC
+283,Remmina
+284,Brave
+285,Chromium
+286,Falkon
+287,Firefox
+288,Midori
+289,Tor Browser
+290,Waterfox
+291,SeaMonkey
+292,Cheese
+293,Guvcview
+294,cURL
+295,HTTrack
+296,Wget
+297,Apache Cocoon
+298,Apache
+299,AWStats
+300,BookmarkSync
+301,Cherokee
+302,curl-loader
+303,FileZilla
+304,Hiawatha
+305,HTTP File Server
+306,lighttpd
+307,Lucee
+308,Nginx
+309,NetKernel
+310,Qcodo
+311,Squid (software)
+312,Vaadin
+313,Varnish (software)
+314,XAMPP
+315,Zope
+316,Searx
+317,YaCy
+318,JXplorer
+319,Nextcloud
+320,OpenLDAP
+321,ownCloud
+322,Wireshark
+323,Apache OpenOffice
+324,Calligra Suite
+325,LibreOffice
+326,ONLYOFFICE Desktop EditorS
+327,DOSBox
+328,VirtualBox
+329,Chandler
+330,KAddressBook
+331,Kontact
+332,KOrganizer
+333,Mozilla Calendar
+334,Novell Evolution
+335,Perkeep
+336,Project.net
+337,TeamLab
+338,Bugzilla
+339,Mantis
+340,Mindquarry
+341,Redmine
+342,Trac
+343,Bison
+344,CodeSynthesis XSD
+345,CodeSynthesis XSD/e
+346,Flex lexical analyser
+347,Kodos
+348,Open Scene Graph
+349,OpenSCDP
+350,phpCodeGenie
+351,SableCC
+352,SWIG
+353,^txt2regex$
+354,xmlbeansxx
+355,YAKINDU Statechart Tools
+356,Doxygen
+357,Mkd
+358,Natural Docs
+359,Autoconf
+360,Automake
+361,BuildAMation
+362,CMake
+363,GNU Debugger
+364,Memtest86
+365,Xnee
+366,Active Agenda
+367,Chemistry Development Kit
+368,JOELib
+369,OpenBabel
+370,ELOG
+371,Jupyter
+372,P-GRADE Portal
+373,CellProfiler
+374,Endrov
+375,FIJI (software)
+376,Ilastik
+377,ImageJ
+378,IMOD
+379,ITK
+380,KNIME
+382,3DSlicer
+383,GROMACS
+384,LAMMPS
+385,MDynaMix
+386,NAMD
+387,NWChem
+388,Avogadro
+389,BALLView
+390,Jmol
+391,Molekel
+392,MeshLab
+393,PyMOL
+394,QuteMol
+395,RasMol
+396,Ninithi
+397,Veusz
+398,CP2K
+399,BOINC
+400,Electric Sheep
+401,XScreenSaver
+402,LimeSurvey
+403,Go Bible
+404,Marcion
+405,OpenLP
+406,The SWORD Project
