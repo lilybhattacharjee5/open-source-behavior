@@ -6,7 +6,12 @@ def global_pos(min_idx, window_right_end, window_size):
 
 def record(winnowed_hashes, hash_val, global_pos):
 	winnowed_hashes.append((hash_val, global_pos))
-	# return
+
+def winnowing_algorithm(text, w, n):
+	return winnow(w, generate_hashes(clean_text_program(text), n))
+
+def calculate_similarity(hash_list_1, hash_list_2):
+	return 0.99
 
 def winnow(w, hash_list):
 	winnowed_hashes = []
@@ -15,9 +20,6 @@ def winnow(w, hash_list):
 
 	for i in range(w):
 		h[i] = sys.maxsize
-		# h[i] = hash_list[0]
-		# hash_list = hash_list[1:]
-	# h[w - 1] = sys.maxsize
 
 	r = 0 # window right end
 	min_idx = 0 # index of min hash
@@ -49,6 +51,11 @@ def winnow(w, hash_list):
 				min_idx = r
 				record(winnowed_hashes, h[min_idx], shift - 1)
 	return winnowed_hashes[w - 1:]
+
+def clean_text_program(text):
+	# remove whitespace
+	new_text = text.replace(' ', '')
+	return new_text
 
 def clean_text_english(text):
 	# remove whitespace
